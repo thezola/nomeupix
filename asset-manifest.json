@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nomeupix/static/css/main.1ec1e7dd.css",
+    "main.js": "/nomeupix/static/js/main.8a963670.js",
+    "static/js/787.7cca2072.chunk.js": "/nomeupix/static/js/787.7cca2072.chunk.js",
+    "index.html": "/nomeupix/index.html",
+    "main.1ec1e7dd.css.map": "/nomeupix/static/css/main.1ec1e7dd.css.map",
+    "main.8a963670.js.map": "/nomeupix/static/js/main.8a963670.js.map",
+    "787.7cca2072.chunk.js.map": "/nomeupix/static/js/787.7cca2072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec1e7dd.css",
+    "static/js/main.8a963670.js"
+  ]
+}
